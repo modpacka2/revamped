@@ -14,7 +14,7 @@ public class SearchingtablecostProcedure {
 		if (entity == null)
 			return "";
 		if ((entity instanceof Player _plrSlotItem && _plrSlotItem.containerMenu instanceof Supplier _splr && _splr.get() instanceof Map _slt ? ((Slot) _slt.get(0)).getItem() : ItemStack.EMPTY).getItem() instanceof PickaxeItem) {
-			return "You need " + (new java.text.DecimalFormat("##").format(1) + " points of technology");
+			return "You need " + (new java.text.DecimalFormat("##").format(1) + " point of technology");
 		}
 		return "This item cannot be research";
 	}

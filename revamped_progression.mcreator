@@ -45699,18 +45699,6 @@
             "type": "entity"
           },
           {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
             "name": "world",
             "type": "world"
           }
@@ -45733,18 +45721,6 @@
           {
             "name": "entity",
             "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
           },
           {
             "name": "world",
@@ -45841,42 +45817,6 @@
         ]
       },
       "path": "~/level_system/guireturn"
-    },
-    {
-      "name": "Returnlevelup",
-      "type": "procedure",
-      "sortid": 3141,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "returnlevelup",
-      "metadata": {
-        "return_type": "string",
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/procedures/ReturnlevelupProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      },
-      "path": "~/level_system/guireturn"
-    },
-    {
-      "name": "Levelup",
-      "type": "gui",
-      "sortid": 3142,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "levelup",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/switchotscraft/world/inventory/LevelupMenu.java",
-          "src/main/java/net/mcreator/switchotscraft/client/gui/LevelupScreen.java"
-        ]
-      },
-      "path": "~/level_system"
     },
     {
       "name": "Searchingtablecost",
@@ -46026,7 +45966,6 @@
       "item.revamped_progression.jungleshovel_3": "Jungle shovel",
       "item.revamped_progression.jungleshovel_2": "Jungle shovel",
       "item.revamped_progression.diamondaxestring_10": "Diamond axe",
-      "gui.revamped_progression.levelup.label_level_up": "Level up :",
       "item.revamped_progression.diamondaxestring_11": "Diamond axe",
       "enchantment.revamped_progression.lifemending": "Life mending",
       "advancements.itthecrab.title": "It\u0027s the crabs !!!!!!",
@@ -48817,7 +48756,6 @@
       "item.revamped_progression.jungleshovel_3": "Jungle shovel",
       "item.revamped_progression.jungleshovel_2": "Jungle shovel",
       "item.revamped_progression.diamondaxestring_10": "Diamond axe",
-      "gui.revamped_progression.levelup.label_level_up": "Level up :",
       "item.revamped_progression.diamondaxestring_11": "Diamond axe",
       "enchantment.revamped_progression.lifemending": "Life mending",
       "advancements.itthecrab.title": "It\u0027s the crabs !!!!!!",
