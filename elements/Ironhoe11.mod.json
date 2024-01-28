@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Hoe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "ironhoe11",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Iron hoe",
+    "specialInformation": {
+      "fixedValue": [
+        "stick made in : bamboo",
+        "string made in : fiber string"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTable"
+    },
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 3.0,
+    "enchantability": 14,
+    "damageVsEntity": 1.0,
+    "usageCount": 125,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:FibesrString"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

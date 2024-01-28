@@ -1,0 +1,49 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Diamondaxe"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe2"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe3"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe4"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe5"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe6"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe7"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe8"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe9"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe10"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe11"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "diamondfiberstringaxes",
+    "namespace": "forge"
+  }
+}

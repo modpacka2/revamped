@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:plank_4"
+    },
+    {
+      "item": "revamped_progression:plank_4"
+    },
+    {
+      "item": "revamped_progression:plank_4"
+    },
+    {
+      "item": "revamped_progression:plank_4"
+    }
+  ],
+  "result": {
+    "item": "minecraft:jungle_planks",
+    "count": 1
+  }
+}

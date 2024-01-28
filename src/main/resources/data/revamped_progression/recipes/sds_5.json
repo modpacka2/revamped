@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:string"
+    },
+    "c": {
+      "item": "revamped_progression:acacia_stick"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:diamondswordstring_5",
+    "count": 1
+  }
+}

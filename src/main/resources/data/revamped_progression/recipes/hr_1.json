@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa ",
+    " bc",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:oak_planks"
+    },
+    "b": {
+      "item": "revamped_progression:oakstick"
+    },
+    "c": {
+      "item": "revamped_progression:fibesr_string"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:oakhoe",
+    "count": 1
+  }
+}

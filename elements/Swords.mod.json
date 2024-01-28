@@ -1,0 +1,634 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Oaksword"
+      },
+      {
+        "value": "CUSTOM:Oaksword2"
+      },
+      {
+        "value": "CUSTOM:Oaksword3"
+      },
+      {
+        "value": "CUSTOM:Oaksword4"
+      },
+      {
+        "value": "CUSTOM:Oaksword5"
+      },
+      {
+        "value": "CUSTOM:Oaksword6"
+      },
+      {
+        "value": "CUSTOM:Oaksword7"
+      },
+      {
+        "value": "CUSTOM:Oaksword8"
+      },
+      {
+        "value": "CUSTOM:Oaksword9"
+      },
+      {
+        "value": "CUSTOM:Oaksword10"
+      },
+      {
+        "value": "CUSTOM:Oaksword11"
+      },
+      {
+        "value": "CUSTOM:Sprucesword"
+      },
+      {
+        "value": "CUSTOM:Sprucesword2"
+      },
+      {
+        "value": "CUSTOM:Sprucesword3"
+      },
+      {
+        "value": "CUSTOM:Sprucesword4"
+      },
+      {
+        "value": "CUSTOM:Sprucesword5"
+      },
+      {
+        "value": "CUSTOM:Sprucesword6"
+      },
+      {
+        "value": "CUSTOM:Sprucesword7"
+      },
+      {
+        "value": "CUSTOM:Sprucesword8"
+      },
+      {
+        "value": "CUSTOM:Sprucesword9"
+      },
+      {
+        "value": "CUSTOM:Sprucesword10"
+      },
+      {
+        "value": "CUSTOM:Sprucesword11"
+      },
+      {
+        "value": "CUSTOM:Birchsword"
+      },
+      {
+        "value": "CUSTOM:Birchsword2"
+      },
+      {
+        "value": "CUSTOM:Birchsword3"
+      },
+      {
+        "value": "CUSTOM:Birchsword4"
+      },
+      {
+        "value": "CUSTOM:Birchsword5"
+      },
+      {
+        "value": "CUSTOM:Birchsword6"
+      },
+      {
+        "value": "CUSTOM:Birchsword7"
+      },
+      {
+        "value": "CUSTOM:Birchsword8"
+      },
+      {
+        "value": "CUSTOM:Birchsword9"
+      },
+      {
+        "value": "CUSTOM:Birchsword10"
+      },
+      {
+        "value": "CUSTOM:Birchsword11"
+      },
+      {
+        "value": "CUSTOM:Junglesword"
+      },
+      {
+        "value": "CUSTOM:Junglesword2"
+      },
+      {
+        "value": "CUSTOM:Junglesword3"
+      },
+      {
+        "value": "CUSTOM:Junglesword4"
+      },
+      {
+        "value": "CUSTOM:Junglesword5"
+      },
+      {
+        "value": "CUSTOM:Junglesword6"
+      },
+      {
+        "value": "CUSTOM:Junglesword7"
+      },
+      {
+        "value": "CUSTOM:Junglesword8"
+      },
+      {
+        "value": "CUSTOM:Junglesword9"
+      },
+      {
+        "value": "CUSTOM:Junglesword10"
+      },
+      {
+        "value": "CUSTOM:Junglesword11"
+      },
+      {
+        "value": "CUSTOM:Acaciasword"
+      },
+      {
+        "value": "CUSTOM:Acaciasword2"
+      },
+      {
+        "value": "CUSTOM:Acaciasword3"
+      },
+      {
+        "value": "CUSTOM:Acaciasword4"
+      },
+      {
+        "value": "CUSTOM:Acaciasword5"
+      },
+      {
+        "value": "CUSTOM:Acaciasword6"
+      },
+      {
+        "value": "CUSTOM:Acaciasword7"
+      },
+      {
+        "value": "CUSTOM:Acaciasword8"
+      },
+      {
+        "value": "CUSTOM:Acaciasword9"
+      },
+      {
+        "value": "CUSTOM:Acaciasword10"
+      },
+      {
+        "value": "CUSTOM:Acaciasword11"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword2"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword3"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword4"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword5"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword6"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword7"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword8"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword9"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword10"
+      },
+      {
+        "value": "CUSTOM:Darkoaksword11"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword2"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword3"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword4"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword5"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword6"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword7"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword8"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword9"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword10"
+      },
+      {
+        "value": "CUSTOM:Mangrovesword11"
+      },
+      {
+        "value": "CUSTOM:Cherrysword"
+      },
+      {
+        "value": "CUSTOM:Cherrysword2"
+      },
+      {
+        "value": "CUSTOM:Cherrysword3"
+      },
+      {
+        "value": "CUSTOM:Cherrysword4"
+      },
+      {
+        "value": "CUSTOM:Cherrysword5"
+      },
+      {
+        "value": "CUSTOM:Cherrysword6"
+      },
+      {
+        "value": "CUSTOM:Cherrysword7"
+      },
+      {
+        "value": "CUSTOM:Cherrysword8"
+      },
+      {
+        "value": "CUSTOM:Cherrysword9"
+      },
+      {
+        "value": "CUSTOM:Cherrysword10"
+      },
+      {
+        "value": "CUSTOM:Cherrysword11"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword2"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword3"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword4"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword5"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword6"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword7"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword8"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword9"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword10"
+      },
+      {
+        "value": "CUSTOM:Crimsonsword11"
+      },
+      {
+        "value": "CUSTOM:Warpedsword"
+      },
+      {
+        "value": "CUSTOM:Warpedsword2"
+      },
+      {
+        "value": "CUSTOM:Warpedsword3"
+      },
+      {
+        "value": "CUSTOM:Warpedsword4"
+      },
+      {
+        "value": "CUSTOM:Warpedsword5"
+      },
+      {
+        "value": "CUSTOM:Warpedsword6"
+      },
+      {
+        "value": "CUSTOM:Warpedsword7"
+      },
+      {
+        "value": "CUSTOM:Warpedsword8"
+      },
+      {
+        "value": "CUSTOM:Warpedsword9"
+      },
+      {
+        "value": "CUSTOM:Warpedsword10"
+      },
+      {
+        "value": "CUSTOM:Warpedsword11"
+      },
+      {
+        "value": "CUSTOM:Bamboosword"
+      },
+      {
+        "value": "CUSTOM:Bamboosword2"
+      },
+      {
+        "value": "CUSTOM:Bamboosword3"
+      },
+      {
+        "value": "CUSTOM:Bamboosword4"
+      },
+      {
+        "value": "CUSTOM:Bamboosword5"
+      },
+      {
+        "value": "CUSTOM:Bamboosword6"
+      },
+      {
+        "value": "CUSTOM:Bamboosword7"
+      },
+      {
+        "value": "CUSTOM:Bamboosword8"
+      },
+      {
+        "value": "CUSTOM:Bamboosword9"
+      },
+      {
+        "value": "CUSTOM:Bamboosword10"
+      },
+      {
+        "value": "CUSTOM:Bamboosword11"
+      },
+      {
+        "value": "CUSTOM:Stonesword"
+      },
+      {
+        "value": "CUSTOM:Ironsword"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring"
+      },
+      {
+        "value": "CUSTOM:Diamondsword"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring"
+      },
+      {
+        "value": "CUSTOM:Goldensword"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring"
+      },
+      {
+        "value": "CUSTOM:Netheritesword"
+      },
+      {
+        "value": "CUSTOM:Netheriteswordstring"
+      },
+      {
+        "value": "CUSTOM:Stonesword2"
+      },
+      {
+        "value": "CUSTOM:Stonesword3"
+      },
+      {
+        "value": "CUSTOM:Stonesword4"
+      },
+      {
+        "value": "CUSTOM:Stonesword5"
+      },
+      {
+        "value": "CUSTOM:Stonesword6"
+      },
+      {
+        "value": "CUSTOM:Stonesword7"
+      },
+      {
+        "value": "CUSTOM:Stonesword8"
+      },
+      {
+        "value": "CUSTOM:Stonesword9"
+      },
+      {
+        "value": "CUSTOM:Stonesword10"
+      },
+      {
+        "value": "CUSTOM:Stonesword11"
+      },
+      {
+        "value": "CUSTOM:Ironsword2"
+      },
+      {
+        "value": "CUSTOM:Ironsword3"
+      },
+      {
+        "value": "CUSTOM:Ironsword4"
+      },
+      {
+        "value": "CUSTOM:Ironsword5"
+      },
+      {
+        "value": "CUSTOM:Ironsword6"
+      },
+      {
+        "value": "CUSTOM:Ironsword7"
+      },
+      {
+        "value": "CUSTOM:Ironsword8"
+      },
+      {
+        "value": "CUSTOM:Ironsword9"
+      },
+      {
+        "value": "CUSTOM:Ironsword10"
+      },
+      {
+        "value": "CUSTOM:Ironsword11"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring2"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring3"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring4"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring5"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring6"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring7"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring8"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring9"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring10"
+      },
+      {
+        "value": "CUSTOM:Ironswordstring11"
+      },
+      {
+        "value": "CUSTOM:Diamondsword2"
+      },
+      {
+        "value": "CUSTOM:Diamondsword3"
+      },
+      {
+        "value": "CUSTOM:Diamondsword4"
+      },
+      {
+        "value": "CUSTOM:Diamondsword5"
+      },
+      {
+        "value": "CUSTOM:Diamondsword6"
+      },
+      {
+        "value": "CUSTOM:Diamondsword7"
+      },
+      {
+        "value": "CUSTOM:Diamondsword8"
+      },
+      {
+        "value": "CUSTOM:Diamondsword9"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring2"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring3"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring4"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring5"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring6"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring7"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring8"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring9"
+      },
+      {
+        "value": "CUSTOM:Diamondsword10"
+      },
+      {
+        "value": "CUSTOM:Diamondsword11"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring10"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring11"
+      },
+      {
+        "value": "CUSTOM:Goldensword2"
+      },
+      {
+        "value": "CUSTOM:Goldensword3"
+      },
+      {
+        "value": "CUSTOM:Goldensword4"
+      },
+      {
+        "value": "CUSTOM:Goldensword5"
+      },
+      {
+        "value": "CUSTOM:Goldensword6"
+      },
+      {
+        "value": "CUSTOM:Goldensword7"
+      },
+      {
+        "value": "CUSTOM:Goldensword8"
+      },
+      {
+        "value": "CUSTOM:Goldensword9"
+      },
+      {
+        "value": "CUSTOM:Goldensword10"
+      },
+      {
+        "value": "CUSTOM:Goldensword11"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring2"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring3"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring4"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring5"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring6"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring7"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring8"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring9"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring10"
+      },
+      {
+        "value": "CUSTOM:Goldenswordstring11"
+      },
+      {
+        "value": "Items.WOODEN_SWORD"
+      },
+      {
+        "value": "Items.STONE_SWORD"
+      },
+      {
+        "value": "Items.IRON_SWORD"
+      },
+      {
+        "value": "Items.GOLDEN_SWORD"
+      },
+      {
+        "value": "Items.DIAMOND_SWORD"
+      },
+      {
+        "value": "Items.NETHERITE_SWORD"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "swords",
+    "namespace": "forge"
+  }
+}

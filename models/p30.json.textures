@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "birch_log",
+        "1": "birch_log_top",
+        "2": "warped_planks"
+      },
+      "name": "default"
+    }
+  }
+}

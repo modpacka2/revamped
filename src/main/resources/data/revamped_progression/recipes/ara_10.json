@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa ",
+    "abc",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:spruce_planks"
+    },
+    "b": {
+      "item": "revamped_progression:warped_stick"
+    },
+    "c": {
+      "item": "revamped_progression:fibesr_string"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:spruceaxe_10",
+    "count": 1
+  }
+}

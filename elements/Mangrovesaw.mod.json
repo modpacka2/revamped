@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LogBark7"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FibesrString"
+      },
+      {
+        "value": "CUSTOM:MangroveStick"
+      },
+      {
+        "value": "CUSTOM:FibesrString"
+      },
+      {
+        "value": "CUSTOM:SharpRock"
+      },
+      {
+        "value": "CUSTOM:SharpRock"
+      },
+      {
+        "value": "CUSTOM:SharpRock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Mangroverocksaw"
+    },
+    "name": "mangrovesaw",
+    "namespace": "mod"
+  }
+}

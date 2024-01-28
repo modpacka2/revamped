@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cherry_log",
+        "1": "cherry_log_top",
+        "2": "birch_planks"
+      },
+      "name": "default"
+    }
+  }
+}

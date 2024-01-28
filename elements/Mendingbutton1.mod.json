@@ -1,0 +1,12 @@
+{
+  "_fv": 57,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NUMPAD1",
+    "keyBindingName": "Life mending button",
+    "keyBindingCategoryKey": "gameplay",
+    "onKeyPressed": {
+      "name": "Mendingbutton1OnKeyPressed"
+    }
+  }
+}

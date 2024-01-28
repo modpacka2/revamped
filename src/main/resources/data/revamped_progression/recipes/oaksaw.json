@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "revamped_progression:log_bark"
+    },
+    "b": {
+      "item": "revamped_progression:fibesr_string"
+    },
+    "c": {
+      "item": "revamped_progression:oakstick"
+    },
+    "d": {
+      "item": "revamped_progression:sharp_rock"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:oakrocksaw",
+    "count": 1
+  }
+}

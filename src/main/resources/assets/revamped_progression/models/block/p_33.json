@@ -1,0 +1,11 @@
+{
+  "parent": "revamped_progression:custom/p33",
+  "textures": {
+    "all": "revamped_progression:block/jungle_log",
+    "particle": "revamped_progression:block/jungle_log",
+    "0": "revamped_progression:block/jungle_log",
+    "1": "revamped_progression:block/jungle_log_top",
+    "2": "revamped_progression:block/birch_planks"
+  },
+  "render_type": "cutout"
+}

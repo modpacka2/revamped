@@ -1,0 +1,15 @@
+{
+  "type": "revamped_progression:axecuttingj",
+  "ingredients": [
+    {
+      "tag": "forge:axes_t_2"
+    },
+    {
+      "item": "minecraft:crimson_stem"
+    }
+  ],
+  "output": {
+    "item": "revamped_progression:plank_9",
+    "count": 4
+  }
+}

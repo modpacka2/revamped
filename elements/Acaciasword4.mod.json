@@ -1,0 +1,36 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "sbsd4",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Acacia sword",
+    "specialInformation": {
+      "fixedValue": [
+        "stick made in : jungle"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTable"
+    },
+    "harvestLevel": 0,
+    "efficiency": 2.0,
+    "attackSpeed": 1.6,
+    "enchantability": 15,
+    "damageVsEntity": 2.0,
+    "usageCount": 59,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:FibesrString"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

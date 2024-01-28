@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "spruce_log_top",
+        "3": "dark_oak_log",
+        "4": "dark_oak_log_top",
+        "5": "spruce_log"
+      },
+      "name": "default"
+    }
+  }
+}

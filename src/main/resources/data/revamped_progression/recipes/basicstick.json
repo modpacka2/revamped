@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "revamped_progression:ironchip"
+    },
+    "b": {
+      "tag": "forge:stick"
+    },
+    "c": {
+      "item": "revamped_progression:fibesr_string"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "crimson_stem",
+        "1": "crimson_stem_top"
+      },
+      "name": "default"
+    }
+  }
+}

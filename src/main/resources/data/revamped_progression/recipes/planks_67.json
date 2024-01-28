@@ -1,0 +1,15 @@
+{
+  "type": "revamped_progression:axecuttingj",
+  "ingredients": [
+    {
+      "tag": "forge:axes_t_1"
+    },
+    {
+      "item": "minecraft:stripped_mangrove_log"
+    }
+  ],
+  "output": {
+    "item": "revamped_progression:plank_7",
+    "count": 2
+  }
+}

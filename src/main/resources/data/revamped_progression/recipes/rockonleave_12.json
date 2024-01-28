@@ -1,0 +1,15 @@
+{
+  "type": "revamped_progression:punshing",
+  "ingredients": [
+    {
+      "item": "revamped_progression:sharp_rock"
+    },
+    {
+      "item": "minecraft:spruce_leaves"
+    }
+  ],
+  "output": {
+    "item": "revamped_progression:spruce_stick",
+    "count": 1
+  }
+}

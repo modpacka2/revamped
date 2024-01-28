@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:plank_6"
+    },
+    {
+      "item": "revamped_progression:plank_6"
+    },
+    {
+      "item": "revamped_progression:plank_6"
+    },
+    {
+      "item": "revamped_progression:plank_6"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dark_oak_planks",
+    "count": 1
+  }
+}

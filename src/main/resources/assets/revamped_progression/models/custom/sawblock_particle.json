@@ -1,0 +1,6 @@
+{
+  "parent": "revamped_progression:displaysettings/saw.item",
+  "textures": {
+    "particle": "revamped_progression:block/sawtext"
+  }
+}

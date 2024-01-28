@@ -1,0 +1,11 @@
+{
+  "parent": "revamped_progression:custom/p100",
+  "textures": {
+    "all": "revamped_progression:block/warped_stem",
+    "particle": "revamped_progression:block/warped_stem",
+    "0": "revamped_progression:block/warped_stem",
+    "1": "revamped_progression:block/warped_stem_top",
+    "2": "revamped_progression:block/warped_planks"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "revamped_progression:custom/l130",
+  "textures": {
+    "all": "revamped_progression:block/birch_log",
+    "particle": "revamped_progression:block/birch_log",
+    "1": "revamped_progression:block/birch_log_top",
+    "3": "revamped_progression:block/stripped_warped_stem",
+    "4": "revamped_progression:block/stripped_warped_stem_top",
+    "5": "revamped_progression:block/birch_log"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa ",
+    "abc",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:jungle_planks"
+    },
+    "b": {
+      "item": "revamped_progression:birch_stick"
+    },
+    "c": {
+      "item": "revamped_progression:fibesr_string"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:jungleaxe_3",
+    "count": 1
+  }
+}

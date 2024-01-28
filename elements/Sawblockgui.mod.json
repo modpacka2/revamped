@@ -1,0 +1,337 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sawmill",
+          "text": {
+            "fixedValue": "Sawmill"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 133,
+          "y": 43
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 169,
+          "y": 58
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 169,
+          "y": 94
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 241,
+          "y": 76
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saws1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw0p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw10p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw10p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw20p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw20p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw30p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw30p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw40p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw40p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw50p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw50p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw60p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw60p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw70p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw70p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw80p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw80p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw90p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw90p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saw100p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Saw100p"
+          },
+          "x": 170,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr0p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow10p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr10p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow20p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr20p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow30p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr30p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow40p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr40p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow50p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr50p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow60p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr60p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow70p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr70p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow80p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr80p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow90p.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Arr90p"
+          },
+          "x": 212,
+          "y": 77
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 13,
+      "oy": 6,
+      "snapOnGrid": false
+    }
+  }
+}

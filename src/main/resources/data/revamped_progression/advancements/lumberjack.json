@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "revamped_progression:log_bark"
+    },
+    "title": {
+      "translate": "advancements.lumberjack.title"
+    },
+    "description": {
+      "translate": "advancements.lumberjack.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "lumberjack": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "revamped_progression:thistocutsometree"
+}

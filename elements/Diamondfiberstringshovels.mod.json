@@ -1,0 +1,49 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Diamondshovel"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel2"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel3"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel4"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel5"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel6"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel8"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel9"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel10"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel11"
+      },
+      {
+        "value": "CUSTOM:Diamondhsovel7"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "diamondfiberstringshovels",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FibesrString"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LogBark7"
+      },
+      {
+        "value": "Blocks.STRIPPED_MANGROVE_LOG"
+      },
+      {
+        "value": "CUSTOM:LogBark7"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.MANGROVE_LOG"
+    },
+    "name": "logc_7",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AcaciaStick"
+      },
+      {
+        "value": "Blocks.PLANKS#4"
+      },
+      {
+        "value": "CUSTOM:AcaciaStick"
+      },
+      {
+        "value": "CUSTOM:AcaciaStick"
+      },
+      {
+        "value": "Blocks.PLANKS#4"
+      },
+      {
+        "value": "CUSTOM:AcaciaStick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.ACACIA_FENCE_GATE"
+    },
+    "name": "acaciafencegater",
+    "namespace": "mod"
+  }
+}

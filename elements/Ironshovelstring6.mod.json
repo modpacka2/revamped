@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Spade",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "ironshovel6",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Iron shovel",
+    "specialInformation": {
+      "fixedValue": [
+        "stick made in : dark oak",
+        "string made in : spider string"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTable"
+    },
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 14,
+    "damageVsEntity": 4.5,
+    "usageCount": 375,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "Items.STRING"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

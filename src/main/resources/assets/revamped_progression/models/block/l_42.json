@@ -1,0 +1,12 @@
+{
+  "parent": "revamped_progression:custom/l42",
+  "textures": {
+    "all": "revamped_progression:block/acacia_log",
+    "particle": "revamped_progression:block/acacia_log",
+    "1": "revamped_progression:block/acacia_log_top",
+    "3": "revamped_progression:block/spruce_log",
+    "4": "revamped_progression:block/spruce_log_top",
+    "5": "revamped_progression:block/acacia_log"
+  },
+  "render_type": "cutout"
+}

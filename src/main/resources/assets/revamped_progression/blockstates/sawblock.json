@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "revamped_progression:custom/sawblock_particle"
+    },
+    "facing=east": {
+      "model": "revamped_progression:custom/sawblock_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "revamped_progression:custom/sawblock_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "revamped_progression:custom/sawblock_particle",
+      "y": 270
+    }
+  }
+}

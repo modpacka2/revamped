@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "revamped_progression:mangrove_stick"
+    },
+    "b": {
+      "item": "minecraft:mangrove_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:mangrove_fence_gate",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "revamped_progression:punshing",
+  "ingredients": [
+    {
+      "item": "revamped_progression:rock"
+    },
+    {
+      "item": "minecraft:grass"
+    }
+  ],
+  "output": {
+    "item": "revamped_progression:fiber_string",
+    "count": 1
+  }
+}

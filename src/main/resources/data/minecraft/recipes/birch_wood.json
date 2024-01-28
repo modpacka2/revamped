@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:log_bark_3"
+    },
+    {
+      "item": "minecraft:birch_log"
+    },
+    {
+      "item": "revamped_progression:log_bark_3"
+    }
+  ],
+  "result": {
+    "item": "minecraft:birch_wood",
+    "count": 1
+  }
+}

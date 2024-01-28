@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:plank_5"
+    },
+    {
+      "item": "revamped_progression:plank_5"
+    },
+    {
+      "item": "revamped_progression:plank_5"
+    },
+    {
+      "item": "revamped_progression:plank_5"
+    }
+  ],
+  "result": {
+    "item": "minecraft:acacia_planks",
+    "count": 1
+  }
+}

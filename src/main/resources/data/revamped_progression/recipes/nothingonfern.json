@@ -1,0 +1,15 @@
+{
+  "type": "revamped_progression:punshing",
+  "ingredients": [
+    {
+      "item": "revamped_progression:hand"
+    },
+    {
+      "item": "minecraft:fern"
+    }
+  ],
+  "output": {
+    "item": "revamped_progression:rock",
+    "count": 1
+  }
+}

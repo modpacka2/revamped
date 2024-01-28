@@ -1,0 +1,11 @@
+{
+  "parent": "revamped_progression:custom/p84",
+  "textures": {
+    "all": "revamped_progression:block/crimson_stem",
+    "particle": "revamped_progression:block/crimson_stem",
+    "0": "revamped_progression:block/crimson_stem",
+    "1": "revamped_progression:block/crimson_stem_top",
+    "2": "revamped_progression:block/jungle_planks"
+  },
+  "render_type": "cutout"
+}

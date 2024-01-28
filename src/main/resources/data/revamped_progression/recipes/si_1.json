@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " bc",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "revamped_progression:oakstick"
+    },
+    "c": {
+      "item": "revamped_progression:fibesr_string"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:ironpickaxe",
+    "count": 1
+  }
+}

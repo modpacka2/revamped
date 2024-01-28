@@ -1,0 +1,36 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Hoe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "stonehoe11",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Stone hoe",
+    "specialInformation": {
+      "fixedValue": [
+        "stick made in : bamboo"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTable"
+    },
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 5,
+    "damageVsEntity": 1.0,
+    "usageCount": 131,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:FibesrString"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

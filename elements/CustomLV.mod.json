@@ -1,0 +1,344 @@
+{
+  "_fv": 57,
+  "_type": "config",
+  "definition": {
+    "pools": [
+      {
+        "category": "Level",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1500.0,
+            "textDefault": "",
+            "comment": "the config value in revamped progression config file need to be enabled",
+            "vardisplay": "xp for level 1-2",
+            "varname": "lv_1",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1847.0,
+            "textDefault": "",
+            "comment": "the config value in revamped progression config file need to be enabled",
+            "vardisplay": "xp for level 2-3",
+            "varname": "lv_2",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 2086.0,
+            "textDefault": "",
+            "comment": "the config value in revamped progression config file need to be enabled",
+            "vardisplay": "xp for level 3-4",
+            "varname": "lv_3",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 2274.0,
+            "textDefault": "",
+            "comment": "the config value in revamped progression config file need to be enabled",
+            "vardisplay": "xp for level 4-5",
+            "varname": "lv_4",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 2431.0,
+            "textDefault": "",
+            "comment": "the config value in revamped progression config file need to be enabled",
+            "vardisplay": "xp for level 5-6",
+            "varname": "lv_5",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 2568.0,
+            "textDefault": "",
+            "comment": "the config value in revamped progression config file need to be enabled",
+            "vardisplay": "xp for level 6-7",
+            "varname": "lv_6",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 2689.0,
+            "textDefault": "",
+            "comment": "the config value in revamped progression config file need to be enabled",
+            "vardisplay": "xp for level; 7-8",
+            "varname": "lv_7",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 2799.0,
+            "textDefault": "",
+            "comment": "the config value in revamped progression config file need to be enabled",
+            "vardisplay": "xp for level 8-9",
+            "varname": "lv_8",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 2900.0,
+            "textDefault": "",
+            "comment": "the config value in revamped progression config file need to be enabled",
+            "vardisplay": "xp for level 9-10",
+            "varname": "lv_9",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          }
+        ]
+      },
+      {
+        "category": "Tech points per level",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "tech points for level 1-2",
+            "varname": "lv_t1",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "tech points for level 2-3",
+            "varname": "lv_t2",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "tech points for level 3-4",
+            "varname": "lv_t3",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 3.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "tech points for level 4-5",
+            "varname": "lv_t4",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "tech points for level 5-6",
+            "varname": "lv_t5",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "tech points for level 6-7",
+            "varname": "lv_t6",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "tech points for level 7-8",
+            "varname": "lv_t7",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "tech points for level 8-9",
+            "varname": "lv_t8",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 3.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "tech points for level 9-10",
+            "varname": "lv_t9",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          }
+        ]
+      }
+    ],
+    "file": "R_progression_level_config",
+    "configType": 0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "warped_stem_top",
+        "3": "birch_log",
+        "4": "birch_log_top",
+        "5": "warped_stem"
+      },
+      "name": "default"
+    }
+  }
+}

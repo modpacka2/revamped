@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "crimson_stem",
+        "1": "crimson_stem_top",
+        "2": "warped_planks"
+      },
+      "name": "default"
+    }
+  }
+}

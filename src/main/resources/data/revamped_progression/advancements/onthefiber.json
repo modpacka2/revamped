@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "revamped_progression:fibesr_string"
+    },
+    "title": {
+      "translate": "advancements.onthefiber.title"
+    },
+    "description": {
+      "translate": "advancements.onthefiber.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "onthefiber": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "revamped_progression:fibesr_string"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "revamped_progression:justenoughtstone"
+}

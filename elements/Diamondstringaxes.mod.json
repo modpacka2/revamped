@@ -1,0 +1,49 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Diamondaxestring"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring2"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring3"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring4"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring5"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring6"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring7"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring8"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring9"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring10"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring11"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "diamondstringaxes",
+    "namespace": "forge"
+  }
+}

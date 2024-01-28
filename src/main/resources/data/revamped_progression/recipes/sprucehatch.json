@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:fibesr_string"
+    },
+    {
+      "item": "revamped_progression:rock"
+    },
+    {
+      "item": "revamped_progression:spruce_stick"
+    }
+  ],
+  "result": {
+    "item": "revamped_progression:sprucehatchet",
+    "count": 1
+  }
+}

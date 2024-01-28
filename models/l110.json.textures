@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "oak_log_top",
+        "3": "stripped_warped_stem",
+        "4": "stripped_warped_stem_top",
+        "5": "oak_log"
+      },
+      "name": "default"
+    }
+  }
+}

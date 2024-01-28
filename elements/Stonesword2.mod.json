@@ -1,0 +1,36 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "stonesword2",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Stone sword",
+    "specialInformation": {
+      "fixedValue": [
+        "stick made in : spruce"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTable"
+    },
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.6,
+    "enchantability": 5,
+    "damageVsEntity": 3.0,
+    "usageCount": 131,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:FibesrString"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

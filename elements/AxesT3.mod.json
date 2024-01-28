@@ -1,0 +1,145 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.GOLDEN_AXE"
+      },
+      {
+        "value": "Items.DIAMOND_AXE"
+      },
+      {
+        "value": "Items.NETHERITE_AXE"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe2"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe3"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe4"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe5"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe6"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe7"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe8"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe9"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe10"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe11"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring2"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring3"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring4"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring5"
+      },
+      {
+        "value": "CUSTOM:Netheriteaxe"
+      },
+      {
+        "value": "CUSTOM:Netheriteaxestring"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe2"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe3"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe4"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe5"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe6"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe7"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe8"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe9"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe10"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe11"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring2"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring3"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring4"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring5"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring6"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring7"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring8"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring9"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring10"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring11"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "axes_t_3",
+    "namespace": "forge"
+  }
+}

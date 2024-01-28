@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cherry_log_top",
+        "3": "stripped_warped_stem",
+        "4": "stripped_warped_stem_top",
+        "5": "cherry_log"
+      },
+      "name": "default"
+    }
+  }
+}

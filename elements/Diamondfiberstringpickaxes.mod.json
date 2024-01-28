@@ -1,0 +1,49 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Diamondpickaxe"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe2"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe3"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe4"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe5"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe6"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe7"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe8"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe9"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe10"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe11"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "diamondfiberstringpickaxes",
+    "namespace": "forge"
+  }
+}

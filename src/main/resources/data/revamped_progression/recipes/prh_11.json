@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crimson_planks"
+    },
+    "b": {
+      "item": "revamped_progression:bamboo_stick"
+    },
+    "c": {
+      "item": "revamped_progression:fibesr_string"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:crimsonshovel_11",
+    "count": 1
+  }
+}

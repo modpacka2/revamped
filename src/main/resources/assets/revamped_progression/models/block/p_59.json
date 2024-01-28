@@ -1,0 +1,11 @@
+{
+  "parent": "revamped_progression:custom/p59",
+  "textures": {
+    "all": "revamped_progression:block/dark_oak_log",
+    "particle": "revamped_progression:block/dark_oak_log",
+    "0": "revamped_progression:block/dark_oak_log",
+    "1": "revamped_progression:block/dark_oak_log_top",
+    "2": "revamped_progression:block/crimson_planks"
+  },
+  "render_type": "cutout"
+}

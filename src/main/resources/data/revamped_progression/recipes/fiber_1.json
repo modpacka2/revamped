@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:fiber_string"
+    },
+    {
+      "item": "revamped_progression:fiber_string"
+    },
+    {
+      "item": "revamped_progression:fiber_string"
+    }
+  ],
+  "result": {
+    "item": "revamped_progression:bigfiber",
+    "count": 1
+  }
+}

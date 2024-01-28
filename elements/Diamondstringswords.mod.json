@@ -1,0 +1,49 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Diamondswordstring2"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring3"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring4"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring5"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring6"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring7"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring8"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring9"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring10"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring11"
+      },
+      {
+        "value": "CUSTOM:Diamondswordstring"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "diamondstringswords",
+    "namespace": "forge"
+  }
+}

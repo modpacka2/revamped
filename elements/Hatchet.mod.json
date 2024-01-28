@@ -1,0 +1,49 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Oakhatchet"
+      },
+      {
+        "value": "CUSTOM:Sprucehatchet"
+      },
+      {
+        "value": "CUSTOM:Birchhatchet"
+      },
+      {
+        "value": "CUSTOM:Junglehatchet"
+      },
+      {
+        "value": "CUSTOM:Acaciahatchet"
+      },
+      {
+        "value": "CUSTOM:DarkOakhatchet"
+      },
+      {
+        "value": "CUSTOM:Mangrovehatchet"
+      },
+      {
+        "value": "CUSTOM:Cherryhatchet"
+      },
+      {
+        "value": "CUSTOM:Crimsonhatchet"
+      },
+      {
+        "value": "CUSTOM:Warpedhatchet"
+      },
+      {
+        "value": "CUSTOM:Bamboohatchet"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "hatchet",
+    "namespace": "forge"
+  }
+}

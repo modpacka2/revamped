@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:fibesr_string"
+    },
+    {
+      "item": "minecraft:warped_stem"
+    }
+  ],
+  "result": {
+    "item": "revamped_progression:cl_10",
+    "count": 2
+  }
+}

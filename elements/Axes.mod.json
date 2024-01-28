@@ -1,0 +1,643 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.WOODEN_AXE"
+      },
+      {
+        "value": "Items.STONE_AXE"
+      },
+      {
+        "value": "Items.IRON_AXE"
+      },
+      {
+        "value": "Items.GOLDEN_AXE"
+      },
+      {
+        "value": "Items.DIAMOND_AXE"
+      },
+      {
+        "value": "Items.NETHERITE_AXE"
+      },
+      {
+        "value": "CUSTOM:Oakhatchet"
+      },
+      {
+        "value": "CUSTOM:Sprucehatchet"
+      },
+      {
+        "value": "CUSTOM:Birchhatchet"
+      },
+      {
+        "value": "CUSTOM:Junglehatchet"
+      },
+      {
+        "value": "CUSTOM:Acaciahatchet"
+      },
+      {
+        "value": "CUSTOM:DarkOakhatchet"
+      },
+      {
+        "value": "CUSTOM:Mangrovehatchet"
+      },
+      {
+        "value": "CUSTOM:Cherryhatchet"
+      },
+      {
+        "value": "CUSTOM:Crimsonhatchet"
+      },
+      {
+        "value": "CUSTOM:Warpedhatchet"
+      },
+      {
+        "value": "CUSTOM:Bamboohatchet"
+      },
+      {
+        "value": "CUSTOM:Oakaxe"
+      },
+      {
+        "value": "CUSTOM:Oakaxe2"
+      },
+      {
+        "value": "CUSTOM:Oakaxe3"
+      },
+      {
+        "value": "CUSTOM:Oakaxe4"
+      },
+      {
+        "value": "CUSTOM:Oakaxe5"
+      },
+      {
+        "value": "CUSTOM:Oakaxe6"
+      },
+      {
+        "value": "CUSTOM:Oakaxe7"
+      },
+      {
+        "value": "CUSTOM:Oakaxe8"
+      },
+      {
+        "value": "CUSTOM:Oakaxe9"
+      },
+      {
+        "value": "CUSTOM:Oakaxe10"
+      },
+      {
+        "value": "CUSTOM:Oakaxe11"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe2"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe3"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe4"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe5"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe6"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe7"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe8"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe9"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe10"
+      },
+      {
+        "value": "CUSTOM:Spruceaxe11"
+      },
+      {
+        "value": "CUSTOM:Birchaxe"
+      },
+      {
+        "value": "CUSTOM:Birchaxe2"
+      },
+      {
+        "value": "CUSTOM:Birchaxe4"
+      },
+      {
+        "value": "CUSTOM:Birchaxe5"
+      },
+      {
+        "value": "CUSTOM:Birchaxe6"
+      },
+      {
+        "value": "CUSTOM:Birchaxe7"
+      },
+      {
+        "value": "CUSTOM:Brichaxe8"
+      },
+      {
+        "value": "CUSTOM:Birchaxe9"
+      },
+      {
+        "value": "CUSTOM:Birchaxe10"
+      },
+      {
+        "value": "CUSTOM:Birchaxe11"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe2"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe3"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe4"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe5"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe6"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe7"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe8"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe9"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe10"
+      },
+      {
+        "value": "CUSTOM:Jungleaxe11"
+      },
+      {
+        "value": "CUSTOM:Acaciaaxe"
+      },
+      {
+        "value": "CUSTOM:Acaciaaxe2"
+      },
+      {
+        "value": "CUSTOM:Acaciaaxe3"
+      },
+      {
+        "value": "CUSTOM:Acaciaaxe4"
+      },
+      {
+        "value": "CUSTOM:Acaciaaxe6"
+      },
+      {
+        "value": "CUSTOM:Acaciaaxe7"
+      },
+      {
+        "value": "CUSTOM:Acaciaaxe8"
+      },
+      {
+        "value": "CUSTOM:Acacioaaxe9"
+      },
+      {
+        "value": "CUSTOM:Acaciaaxe10"
+      },
+      {
+        "value": "CUSTOM:Acaciaaxe11"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe2"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe3"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe4"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe5"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe6"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe7"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe8"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe9"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe10"
+      },
+      {
+        "value": "CUSTOM:Darkoakaxe11"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe2"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe3"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe4"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe5"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe6"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe7"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe8"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe9"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe10"
+      },
+      {
+        "value": "CUSTOM:Mangroveaxe11"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe2"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe3"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe4"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe5"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe6"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe7"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe8"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe9"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe10"
+      },
+      {
+        "value": "CUSTOM:Cherryaxe11"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe2"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe3"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe4"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe5"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe6"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe7"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe8"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe9"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe10"
+      },
+      {
+        "value": "CUSTOM:Crimsonaxe11"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe2"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe3"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe4"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe5"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe6"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe7"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe8"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe9"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe10"
+      },
+      {
+        "value": "CUSTOM:Warpedaxe11"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe2"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe3"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe4"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe5"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe6"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe7"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe8"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe9"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe10"
+      },
+      {
+        "value": "CUSTOM:Bambooaxe11"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe2"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe3"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe4"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe5"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe6"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe7"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe8"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe9"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe10"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe11"
+      },
+      {
+        "value": "CUSTOM:Ironaxe"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring"
+      },
+      {
+        "value": "CUSTOM:Ironaxe2"
+      },
+      {
+        "value": "CUSTOM:Ironaxe3"
+      },
+      {
+        "value": "CUSTOM:Ironaxe4"
+      },
+      {
+        "value": "CUSTOM:Ironaxe5"
+      },
+      {
+        "value": "CUSTOM:Ironaxe6"
+      },
+      {
+        "value": "CUSTOM:Ironaxe7"
+      },
+      {
+        "value": "CUSTOM:Ironaxe8"
+      },
+      {
+        "value": "CUSTOM:Ironaxe9"
+      },
+      {
+        "value": "CUSTOM:Ironaxe10"
+      },
+      {
+        "value": "CUSTOM:Ironaxe11"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring2"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring3"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring4"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring5"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring6"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring7"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring8"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring9"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring10"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring11"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe2"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe3"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe4"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe5"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe6"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe7"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe8"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe9"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe10"
+      },
+      {
+        "value": "CUSTOM:Diamondaxe11"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring2"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring3"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring4"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring5"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring6"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring7"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring8"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring9"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring10"
+      },
+      {
+        "value": "CUSTOM:Diamondaxestring11"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe2"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe3"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe4"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe5"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe6"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe7"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe8"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe9"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe10"
+      },
+      {
+        "value": "CUSTOM:Goldenaxe11"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring2"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring3"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring4"
+      },
+      {
+        "value": "CUSTOM:Goldenaxestring5"
+      },
+      {
+        "value": "CUSTOM:Netheriteaxe"
+      },
+      {
+        "value": "CUSTOM:Netheriteaxestring"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "axes",
+    "namespace": "forge"
+  }
+}

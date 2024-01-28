@@ -1,0 +1,12 @@
+{
+  "_fv": 57,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 0.2,
+    "scaling": "never",
+    "effects": "hurt",
+    "normalDeathMessage": "%1$s died trying to punch a tree",
+    "itemDeathMessage": "%1$s was killed by %2$s using a tree punch",
+    "playerDeathMessage": "%1$s died whilst trying to escape a tree"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CuttingLog"
+      },
+      {
+        "value": "CUSTOM:CL2"
+      },
+      {
+        "value": "CUSTOM:Cl3"
+      },
+      {
+        "value": "CUSTOM:Cl4"
+      },
+      {
+        "value": "CUSTOM:Cl5"
+      },
+      {
+        "value": "CUSTOM:Cl6"
+      },
+      {
+        "value": "CUSTOM:Cl7"
+      },
+      {
+        "value": "CUSTOM:Cl8"
+      },
+      {
+        "value": "CUSTOM:Cl9"
+      },
+      {
+        "value": "CUSTOM:Cl10"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "cuttinglogs",
+    "namespace": "forge"
+  }
+}

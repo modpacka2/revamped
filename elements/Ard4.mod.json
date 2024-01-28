@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.PLANKS#4"
+      },
+      {
+        "value": "Blocks.PLANKS#4"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.PLANKS#4"
+      },
+      {
+        "value": "CUSTOM:JungleStick"
+      },
+      {
+        "value": "CUSTOM:FibesrString"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:JungleStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Acaciaaxe4"
+    },
+    "name": "ard_4",
+    "namespace": "mod"
+  }
+}

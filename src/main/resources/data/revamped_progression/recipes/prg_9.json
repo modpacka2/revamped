@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cherry_planks"
+    },
+    "b": {
+      "item": "revamped_progression:crimson_stick"
+    },
+    "c": {
+      "item": "revamped_progression:fibesr_string"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:cherryshovel_9",
+    "count": 1
+  }
+}

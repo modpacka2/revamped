@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:fibesr_string"
+    },
+    {
+      "item": "revamped_progression:log_bark_5"
+    },
+    {
+      "item": "minecraft:stripped_acacia_log"
+    },
+    {
+      "item": "revamped_progression:log_bark_5"
+    }
+  ],
+  "result": {
+    "item": "minecraft:acacia_log",
+    "count": 1
+  }
+}

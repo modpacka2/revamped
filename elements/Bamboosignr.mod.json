@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BAMBOO_PLANKS"
+      },
+      {
+        "value": "Blocks.BAMBOO_PLANKS"
+      },
+      {
+        "value": "Blocks.BAMBOO_PLANKS"
+      },
+      {
+        "value": "Blocks.BAMBOO_PLANKS"
+      },
+      {
+        "value": "Blocks.BAMBOO_PLANKS"
+      },
+      {
+        "value": "Blocks.BAMBOO_PLANKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BambooStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.BAMBOO_SIGN"
+    },
+    "name": "bamboosignr",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "crimson_stem_top",
+        "3": "stripped_birch_log",
+        "4": "stripped_birch_log_top",
+        "5": "crimson_stem"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.PLANKS#5"
+      },
+      {
+        "value": "Blocks.PLANKS#5"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MangroveStick"
+      },
+      {
+        "value": "CUSTOM:FibesrString"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MangroveStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Darkhoe7"
+    },
+    "name": "hre_7",
+    "namespace": "mod"
+  }
+}

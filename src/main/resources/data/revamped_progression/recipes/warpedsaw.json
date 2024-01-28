@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "revamped_progression:log_bark_10"
+    },
+    "b": {
+      "item": "revamped_progression:fibesr_string"
+    },
+    "c": {
+      "item": "revamped_progression:warped_stick"
+    },
+    "d": {
+      "item": "revamped_progression:sharp_rock"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:warpedrocksaw",
+    "count": 1
+  }
+}

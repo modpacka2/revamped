@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:log_bark_6"
+    },
+    {
+      "item": "minecraft:dark_oak_log"
+    },
+    {
+      "item": "revamped_progression:log_bark_6"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dark_oak_wood",
+    "count": 1
+  }
+}

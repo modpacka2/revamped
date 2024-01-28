@@ -1,0 +1,33 @@
+{
+  "_fv": 57,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "axecutting.png",
+    "width": 180,
+    "height": 180,
+    "icon": {
+      "value": "CUSTOM:CuttingLog"
+    },
+    "title": "Cutting log",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 42,
+        "y": 9,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 42,
+        "y": 50,
+        "slotid": 1
+      },
+      {
+        "type": "OUTPUT",
+        "x": 112,
+        "y": 30,
+        "slotid": 2
+      }
+    ]
+  }
+}

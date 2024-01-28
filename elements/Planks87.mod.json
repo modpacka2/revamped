@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "axecuttingj",
+    "result": {
+      "value": "CUSTOM:Plank9"
+    },
+    "count": 2,
+    "ingredients": [
+      {
+        "value": "TAG:forge:axes_t_1"
+      },
+      {
+        "value": "Blocks.STRIPPED_CRIMSON_STEM"
+      }
+    ]
+  }
+}

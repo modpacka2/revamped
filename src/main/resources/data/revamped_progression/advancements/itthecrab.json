@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "revamped_progression:crabclaw"
+    },
+    "title": {
+      "translate": "advancements.itthecrab.title"
+    },
+    "description": {
+      "translate": "advancements.itthecrab.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "itthecrab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "revamped_progression:crabclaw"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "revamped_progression:justenoughtstone"
+}

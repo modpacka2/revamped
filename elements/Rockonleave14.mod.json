@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "punshing",
+    "result": {
+      "value": "CUSTOM:JungleStick"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:SharpRock"
+      },
+      {
+        "value": "Blocks.LEAVES#3"
+      }
+    ]
+  }
+}

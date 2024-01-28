@@ -1,0 +1,46 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LogBark"
+      },
+      {
+        "value": "CUSTOM:LogBark2"
+      },
+      {
+        "value": "CUSTOM:LogBark3"
+      },
+      {
+        "value": "CUSTOM:LogBark4"
+      },
+      {
+        "value": "CUSTOM:LogBark5"
+      },
+      {
+        "value": "CUSTOM:LogBark6"
+      },
+      {
+        "value": "CUSTOM:LogBark7"
+      },
+      {
+        "value": "CUSTOM:LogBark8"
+      },
+      {
+        "value": "CUSTOM:LogBark9"
+      },
+      {
+        "value": "CUSTOM:LogBark10"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "bark",
+    "namespace": "forge"
+  }
+}

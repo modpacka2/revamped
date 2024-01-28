@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:acacia_planks"
+    },
+    "b": {
+      "item": "revamped_progression:cherry_stick"
+    },
+    "c": {
+      "item": "revamped_progression:fibesr_string"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:acaciashovel_8",
+    "count": 1
+  }
+}

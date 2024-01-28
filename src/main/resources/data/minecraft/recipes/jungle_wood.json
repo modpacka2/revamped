@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:log_bark_4"
+    },
+    {
+      "item": "minecraft:jungle_log"
+    },
+    {
+      "item": "revamped_progression:log_bark_4"
+    }
+  ],
+  "result": {
+    "item": "minecraft:jungle_wood",
+    "count": 1
+  }
+}

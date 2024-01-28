@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "item": "minecraft:string"
+    },
+    "c": {
+      "item": "revamped_progression:crimson_stick"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:goldenswordstring_9",
+    "count": 1
+  }
+}

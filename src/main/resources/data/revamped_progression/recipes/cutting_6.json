@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:fibesr_string"
+    },
+    {
+      "item": "minecraft:stripped_dark_oak_log"
+    },
+    {
+      "item": "revamped_progression:log_bark_6"
+    }
+  ],
+  "result": {
+    "item": "revamped_progression:cl_6",
+    "count": 2
+  }
+}

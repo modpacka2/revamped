@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "punshing",
+    "result": {
+      "value": "CUSTOM:Rock"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:Hand"
+      },
+      {
+        "value": "Blocks.DOUBLE_PLANT#3"
+      }
+    ]
+  }
+}

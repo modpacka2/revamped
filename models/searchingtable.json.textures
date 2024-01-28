@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "searchtext1",
+        "1": "searchtext2",
+        "2": "searchtext3"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "ironaxe2",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Iron axe",
+    "specialInformation": {
+      "fixedValue": [
+        "stick made in : spruce",
+        "string made in : spider string"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTable"
+    },
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 0.9,
+    "enchantability": 14,
+    "damageVsEntity": 9.0,
+    "usageCount": 375,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "Items.STRING"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

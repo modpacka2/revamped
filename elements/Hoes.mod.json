@@ -1,0 +1,634 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Oakhoe"
+      },
+      {
+        "value": "CUSTOM:Oakhoe2"
+      },
+      {
+        "value": "CUSTOM:Oakhoe3"
+      },
+      {
+        "value": "CUSTOM:Oakhoe4"
+      },
+      {
+        "value": "CUSTOM:Oakhoe5"
+      },
+      {
+        "value": "CUSTOM:Oakhoe6"
+      },
+      {
+        "value": "CUSTOM:Oakhoe7"
+      },
+      {
+        "value": "CUSTOM:Oakhoe8"
+      },
+      {
+        "value": "CUSTOM:Oakhoe9"
+      },
+      {
+        "value": "CUSTOM:Oakhoe10"
+      },
+      {
+        "value": "CUSTOM:Oakhoe11"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe2"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe3"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe4"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe5"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe6"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe7"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe8"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe9"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe10"
+      },
+      {
+        "value": "CUSTOM:Sprucehoe11"
+      },
+      {
+        "value": "CUSTOM:Birchhoe"
+      },
+      {
+        "value": "CUSTOM:Birchhoe2"
+      },
+      {
+        "value": "CUSTOM:Birchhoe3"
+      },
+      {
+        "value": "CUSTOM:Birchhoe4"
+      },
+      {
+        "value": "CUSTOM:Birchhoe5"
+      },
+      {
+        "value": "CUSTOM:Birchhoe6"
+      },
+      {
+        "value": "CUSTOM:Birchhoe7"
+      },
+      {
+        "value": "CUSTOM:Birchhoe8"
+      },
+      {
+        "value": "CUSTOM:Birchhoe9"
+      },
+      {
+        "value": "CUSTOM:Birchhoe10"
+      },
+      {
+        "value": "CUSTOM:Birchhoe11"
+      },
+      {
+        "value": "CUSTOM:Junglehoe"
+      },
+      {
+        "value": "CUSTOM:Junglehoe2"
+      },
+      {
+        "value": "CUSTOM:Junglehoe3"
+      },
+      {
+        "value": "CUSTOM:Junglehoe4"
+      },
+      {
+        "value": "CUSTOM:Junglehoe5"
+      },
+      {
+        "value": "CUSTOM:Junglehoe6"
+      },
+      {
+        "value": "CUSTOM:Junglehoe7"
+      },
+      {
+        "value": "CUSTOM:Junglehoe8"
+      },
+      {
+        "value": "CUSTOM:Junglehoe9"
+      },
+      {
+        "value": "CUSTOM:Junglehoe10"
+      },
+      {
+        "value": "CUSTOM:Junglehoe11"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe2"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe3"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe4"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe5"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe6"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe7"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe8"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe9"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe10"
+      },
+      {
+        "value": "CUSTOM:Acaciahoe11"
+      },
+      {
+        "value": "CUSTOM:Darkhoe"
+      },
+      {
+        "value": "CUSTOM:Darkhoe2"
+      },
+      {
+        "value": "CUSTOM:Darkhoe3"
+      },
+      {
+        "value": "CUSTOM:Darkhoe4"
+      },
+      {
+        "value": "CUSTOM:Darkhoe5"
+      },
+      {
+        "value": "CUSTOM:Darkhoe6"
+      },
+      {
+        "value": "CUSTOM:Darkhoe7"
+      },
+      {
+        "value": "CUSTOM:Darkhoe8"
+      },
+      {
+        "value": "CUSTOM:Darkhoe9"
+      },
+      {
+        "value": "CUSTOM:Darkhoe10"
+      },
+      {
+        "value": "CUSTOM:Darkhoe11"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe2"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe3"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe4"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe5"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe6"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe7"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe8"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe9"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe10"
+      },
+      {
+        "value": "CUSTOM:Mangrovehoe11"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe2"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe3"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe4"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe5"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe6"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe7"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe8"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe9"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe10"
+      },
+      {
+        "value": "CUSTOM:Cherryhoe11"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe2"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe3"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe4"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe5"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe6"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe7"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe8"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe9"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe10"
+      },
+      {
+        "value": "CUSTOM:Crimsonhoe11"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe2"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe3"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe4"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe5"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe6"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe7"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe8"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe9"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe10"
+      },
+      {
+        "value": "CUSTOM:Warpedhoe11"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe2"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe3"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe4"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe5"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe6"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe7"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe8"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe9"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe10"
+      },
+      {
+        "value": "CUSTOM:Bamboohoe11"
+      },
+      {
+        "value": "CUSTOM:Stonehoe"
+      },
+      {
+        "value": "CUSTOM:Ironhoe"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring"
+      },
+      {
+        "value": "CUSTOM:Netheritehoe"
+      },
+      {
+        "value": "CUSTOM:Netheritehoestring"
+      },
+      {
+        "value": "CUSTOM:Stonehoe2"
+      },
+      {
+        "value": "CUSTOM:Stonehoe3"
+      },
+      {
+        "value": "CUSTOM:Stonehoe4"
+      },
+      {
+        "value": "CUSTOM:Stonehoe5"
+      },
+      {
+        "value": "CUSTOM:Stonehoe6"
+      },
+      {
+        "value": "CUSTOM:Stonehoe7"
+      },
+      {
+        "value": "CUSTOM:Stonehoe8"
+      },
+      {
+        "value": "CUSTOM:Stonehoe9"
+      },
+      {
+        "value": "CUSTOM:Stonehoe10"
+      },
+      {
+        "value": "CUSTOM:Stonehoe11"
+      },
+      {
+        "value": "CUSTOM:Ironhoe2"
+      },
+      {
+        "value": "CUSTOM:Ironhoe3"
+      },
+      {
+        "value": "CUSTOM:Ironhoe4"
+      },
+      {
+        "value": "CUSTOM:Ironhoe5"
+      },
+      {
+        "value": "CUSTOM:Ironhoe6"
+      },
+      {
+        "value": "CUSTOM:Ironhoe7"
+      },
+      {
+        "value": "CUSTOM:Ironhoe8"
+      },
+      {
+        "value": "CUSTOM:Ironhoe9"
+      },
+      {
+        "value": "CUSTOM:Ironhoe10"
+      },
+      {
+        "value": "CUSTOM:Ironhoe11"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring2"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring3"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring4"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring5"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring6"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring7"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring8"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring9"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring10"
+      },
+      {
+        "value": "CUSTOM:Ironhoestring11"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe2"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe3"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe4"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe5"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe6"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe7"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe8"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe9"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe10"
+      },
+      {
+        "value": "CUSTOM:Diamondhoe11"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring2"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring3"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring4"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring5"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring6"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring7"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring8"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring9"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring10"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring11"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe2"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe3"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe4"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe5"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe6"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe7"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe8"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe9"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe10"
+      },
+      {
+        "value": "CUSTOM:Goldenhoe11"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring2"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring3"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring4"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring5"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring6"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring7"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring8"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring9"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring10"
+      },
+      {
+        "value": "CUSTOM:Goldenhoestring11"
+      },
+      {
+        "value": "Items.WOODEN_HOE"
+      },
+      {
+        "value": "Items.STONE_HOE"
+      },
+      {
+        "value": "Items.IRON_HOE"
+      },
+      {
+        "value": "Items.GOLDEN_HOE"
+      },
+      {
+        "value": "Items.DIAMOND_HOE"
+      },
+      {
+        "value": "Items.NETHERITE_HOE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "hoes",
+    "namespace": "forge"
+  }
+}

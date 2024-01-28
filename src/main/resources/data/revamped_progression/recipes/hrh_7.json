@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa ",
+    " bc",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crimson_planks"
+    },
+    "b": {
+      "item": "revamped_progression:mangrove_stick"
+    },
+    "c": {
+      "item": "revamped_progression:fibesr_string"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:crimsonhoe_7",
+    "count": 1
+  }
+}

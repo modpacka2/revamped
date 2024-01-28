@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Plank9"
+      },
+      {
+        "value": "CUSTOM:Plank9"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Plank9"
+      },
+      {
+        "value": "CUSTOM:Plank9"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CRIMSON_PLANKS"
+    },
+    "name": "crimson_planks",
+    "namespace": "minecraft"
+  }
+}

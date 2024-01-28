@@ -1,0 +1,10 @@
+{
+  "parent": "revamped_progression:custom/semilogground_-_spruce",
+  "textures": {
+    "all": "revamped_progression:block/spruce_log_top",
+    "particle": "revamped_progression:block/spruce_log_top",
+    "0": "revamped_progression:block/spruce_log",
+    "1": "revamped_progression:block/spruce_log_top"
+  },
+  "render_type": "cutout"
+}

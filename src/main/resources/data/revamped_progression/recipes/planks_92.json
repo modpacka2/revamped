@@ -1,0 +1,15 @@
+{
+  "type": "revamped_progression:axecuttingj",
+  "ingredients": [
+    {
+      "tag": "forge:axes_t_2"
+    },
+    {
+      "item": "minecraft:warped_stem"
+    }
+  ],
+  "output": {
+    "item": "revamped_progression:plank_10",
+    "count": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LogBark3"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FibesrString"
+      },
+      {
+        "value": "CUSTOM:BirchStick"
+      },
+      {
+        "value": "CUSTOM:FibesrString"
+      },
+      {
+        "value": "CUSTOM:SharpRock"
+      },
+      {
+        "value": "CUSTOM:SharpRock"
+      },
+      {
+        "value": "CUSTOM:SharpRock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Birchrocksaw"
+    },
+    "name": "birchsaw",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "revamped_progression:custom/p11",
+  "textures": {
+    "all": "revamped_progression:block/spruce_log",
+    "particle": "revamped_progression:block/spruce_log",
+    "0": "revamped_progression:block/spruce_log",
+    "1": "revamped_progression:block/spruce_log_top",
+    "2": "revamped_progression:block/oak_planks"
+  },
+  "render_type": "cutout"
+}

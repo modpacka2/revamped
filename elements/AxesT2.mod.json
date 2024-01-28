@@ -1,0 +1,121 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.STONE_AXE"
+      },
+      {
+        "value": "Items.IRON_AXE"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe2"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe3"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe4"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe5"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe6"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe7"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe8"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe9"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe10"
+      },
+      {
+        "value": "CUSTOM:Stoneaxe11"
+      },
+      {
+        "value": "CUSTOM:Ironaxe"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring"
+      },
+      {
+        "value": "CUSTOM:Ironaxe2"
+      },
+      {
+        "value": "CUSTOM:Ironaxe3"
+      },
+      {
+        "value": "CUSTOM:Ironaxe4"
+      },
+      {
+        "value": "CUSTOM:Ironaxe5"
+      },
+      {
+        "value": "CUSTOM:Ironaxe6"
+      },
+      {
+        "value": "CUSTOM:Ironaxe7"
+      },
+      {
+        "value": "CUSTOM:Ironaxe8"
+      },
+      {
+        "value": "CUSTOM:Ironaxe9"
+      },
+      {
+        "value": "CUSTOM:Ironaxe10"
+      },
+      {
+        "value": "CUSTOM:Ironaxe11"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring2"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring3"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring4"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring5"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring6"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring7"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring8"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring9"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring10"
+      },
+      {
+        "value": "CUSTOM:Ironaxestring11"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "axes_t_2",
+    "namespace": "forge"
+  }
+}

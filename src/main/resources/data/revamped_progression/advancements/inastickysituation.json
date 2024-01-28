@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "revamped_progression:oakstick"
+    },
+    "title": {
+      "translate": "advancements.inastickysituation.title"
+    },
+    "description": {
+      "translate": "advancements.inastickysituation.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "inastickysituation": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "revamped_progression:justenoughtstone"
+}

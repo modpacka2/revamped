@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:ironchip"
+    },
+    {
+      "item": "revamped_progression:ironchip"
+    },
+    {
+      "item": "revamped_progression:ironchip"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+  }
+}

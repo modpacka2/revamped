@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "revamped_progression:oakstick",
+    "revamped_progression:spruce_stick",
+    "revamped_progression:birch_stick",
+    "revamped_progression:jungle_stick",
+    "revamped_progression:acacia_stick",
+    "revamped_progression:dark_oak_stick",
+    "revamped_progression:mangrove_stick",
+    "revamped_progression:cherry_stick",
+    "revamped_progression:crimson_stick",
+    "revamped_progression:warped_stick",
+    "revamped_progression:bamboo_stick",
+    "minecraft:stick"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " ab",
+    "a b"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:stick"
+    },
+    "b": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:fishing_rod",
+    "count": 1
+  }
+}

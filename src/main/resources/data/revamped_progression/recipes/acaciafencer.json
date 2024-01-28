@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:acacia_planks"
+    },
+    "b": {
+      "item": "revamped_progression:acacia_stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:acacia_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cherry_log",
+        "1": "cherry_log_top"
+      },
+      "name": "default"
+    }
+  }
+}

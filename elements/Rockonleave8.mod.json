@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "punshing",
+    "result": {
+      "value": "CUSTOM:CherryStick"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:Rock"
+      },
+      {
+        "value": "Blocks.CHERRY_LEAVES"
+      }
+    ]
+  }
+}

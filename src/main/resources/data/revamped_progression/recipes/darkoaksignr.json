@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "b": {
+      "item": "revamped_progression:dark_oak_stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:dark_oak_sign",
+    "count": 3
+  }
+}

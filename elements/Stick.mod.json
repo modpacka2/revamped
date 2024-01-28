@@ -1,0 +1,52 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Oakstick"
+      },
+      {
+        "value": "CUSTOM:SruceStick"
+      },
+      {
+        "value": "CUSTOM:BirchStick"
+      },
+      {
+        "value": "CUSTOM:JungleStick"
+      },
+      {
+        "value": "CUSTOM:AcaciaStick"
+      },
+      {
+        "value": "CUSTOM:DarkOakStick"
+      },
+      {
+        "value": "CUSTOM:MangroveStick"
+      },
+      {
+        "value": "CUSTOM:CherryStick"
+      },
+      {
+        "value": "CUSTOM:CrimsonStick"
+      },
+      {
+        "value": "CUSTOM:WarpedStick"
+      },
+      {
+        "value": "CUSTOM:BambooStick"
+      },
+      {
+        "value": "Items.STICK"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "stick",
+    "namespace": "forge"
+  }
+}

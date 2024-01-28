@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dark_oak_log",
+        "1": "dark_oak_log_top",
+        "2": "jungle_planks"
+      },
+      "name": "default"
+    }
+  }
+}

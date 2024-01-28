@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "punshing",
+    "result": {
+      "value": "CUSTOM:MangroveStick"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:SharpRock"
+      },
+      {
+        "value": "Blocks.MANGROVE_LEAVES"
+      }
+    ]
+  }
+}

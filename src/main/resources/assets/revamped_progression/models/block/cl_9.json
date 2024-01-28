@@ -1,0 +1,10 @@
+{
+  "parent": "revamped_progression:custom/semilogground_-_crimson",
+  "textures": {
+    "all": "revamped_progression:block/crimson_stem_top",
+    "particle": "revamped_progression:block/crimson_stem_top",
+    "0": "revamped_progression:block/crimson_stem",
+    "1": "revamped_progression:block/crimson_stem_top"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "goldpickaxe6",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Golden pickaxe",
+    "specialInformation": {
+      "fixedValue": [
+        "stick made in : dark oak",
+        "string made in : fiber string"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTable"
+    },
+    "harvestLevel": 1,
+    "efficiency": 12.0,
+    "attackSpeed": 1.2,
+    "enchantability": 22,
+    "damageVsEntity": 2.0,
+    "usageCount": 16,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:FibesrString"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

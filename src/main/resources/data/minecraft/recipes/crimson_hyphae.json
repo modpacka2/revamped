@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:log_bark_9"
+    },
+    {
+      "item": "minecraft:crimson_stem"
+    },
+    {
+      "item": "revamped_progression:log_bark_9"
+    }
+  ],
+  "result": {
+    "item": "minecraft:crimson_hyphae",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:axes"
+    },
+    {
+      "item": "revamped_progression:plank_8"
+    }
+  ],
+  "result": {
+    "item": "revamped_progression:cherry_stick",
+    "count": 2
+  }
+}

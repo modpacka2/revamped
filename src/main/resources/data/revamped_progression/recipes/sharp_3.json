@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "revamped_progression:rock"
+    },
+    {
+      "item": "revamped_progression:rock"
+    },
+    {
+      "item": "revamped_progression:rock"
+    }
+  ],
+  "result": {
+    "item": "revamped_progression:sharp_rock",
+    "count": 3
+  }
+}

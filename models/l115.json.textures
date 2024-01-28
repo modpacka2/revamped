@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "spruce_log_top",
+        "3": "stripped_acacia_log",
+        "4": "stripped_acacia_log_top",
+        "5": "spruce_log"
+      },
+      "name": "default"
+    }
+  }
+}

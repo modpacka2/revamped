@@ -1,0 +1,634 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Oakpickaxe"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe2"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe3"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe4"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe5"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe6"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe7"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe8"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe9"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe10"
+      },
+      {
+        "value": "CUSTOM:Oakpickaxe11"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe2"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe3"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe4"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe5"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe6"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe7"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe8"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe9"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe10"
+      },
+      {
+        "value": "CUSTOM:Sprucepickaxe11"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe2"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe3"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe4"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe5"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe6"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe7"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe8"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe9"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe10"
+      },
+      {
+        "value": "CUSTOM:Birchpickaxe11"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe2"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe3"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe4"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe5"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe6"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe7"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe8"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe9"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe10"
+      },
+      {
+        "value": "CUSTOM:Junglepickaxe11"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe2"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe3"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe4"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe5"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe6"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe7"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe8"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe9"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe10"
+      },
+      {
+        "value": "CUSTOM:Acaciapickaxe11"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe2"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe3"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe4"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe5"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe6"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe7"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe8"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe9"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe10"
+      },
+      {
+        "value": "CUSTOM:Darkpickaxe11"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe2"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe3"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe4"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe5"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe6"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe7"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe8"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe9"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe10"
+      },
+      {
+        "value": "CUSTOM:Mangrovepickaxe11"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe2"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe3"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe4"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe5"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe6"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe7"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe8"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe9"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe10"
+      },
+      {
+        "value": "CUSTOM:Cherrypickaxe11"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe2"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe3"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe4"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe5"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe6"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe7"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe8"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe9"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe10"
+      },
+      {
+        "value": "CUSTOM:Crimsonpickaxe11"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe2"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe3"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe4"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe5"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe6"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe7"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe8"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe9"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe10"
+      },
+      {
+        "value": "CUSTOM:Warpedpickaxe11"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe2"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe3"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe4"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe5"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe6"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe7"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe8"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe9"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe10"
+      },
+      {
+        "value": "CUSTOM:Bamboopickaxe11"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring"
+      },
+      {
+        "value": "CUSTOM:Netheritepickaxe"
+      },
+      {
+        "value": "CUSTOM:Netheritepickaxestring"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe2"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe3"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe4"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe5"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe6"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe7"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe8"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe9"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe10"
+      },
+      {
+        "value": "CUSTOM:Stonepickaxe11"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe2"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe3"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe4"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe5"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe6"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe7"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe8"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe9"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe10"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxe11"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring2"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring3"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring4"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring5"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring6"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring7"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring8"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring9"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring10"
+      },
+      {
+        "value": "CUSTOM:Ironpickaxestring11"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe2"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe3"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe4"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe5"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe6"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe7"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe8"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe9"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe10"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxe11"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring2"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring3"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring4"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring5"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring6"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring7"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring8"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring9"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring10"
+      },
+      {
+        "value": "CUSTOM:Diamondpickaxestring11"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe2"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe3"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe4"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe5"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe6"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe7"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe8"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe9"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe10"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxe11"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring2"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring3"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring4"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring5"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring6"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring7"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring8"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring9"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring10"
+      },
+      {
+        "value": "CUSTOM:Goldenpickaxestring11"
+      },
+      {
+        "value": "Items.WOODEN_PICKAXE"
+      },
+      {
+        "value": "Items.STONE_PICKAXE"
+      },
+      {
+        "value": "Items.IRON_PICKAXE"
+      },
+      {
+        "value": "Items.GOLDEN_PICKAXE"
+      },
+      {
+        "value": "Items.DIAMOND_PICKAXE"
+      },
+      {
+        "value": "Items.NETHERITE_PICKAXE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "pickaxes",
+    "namespace": "forge"
+  }
+}

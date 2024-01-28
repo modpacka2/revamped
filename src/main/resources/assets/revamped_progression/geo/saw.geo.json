@@ -1,0 +1,45 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.saw",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "mainblock",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-8, 0, -8], "size": [16, 6, 16], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "saw",
+					"pivot": [0, 5.5, 0.5],
+					"cubes": [
+						{"origin": [-2.5, 1, 0], "size": [2, 11, 1], "uv": [6, 0]},
+						{"origin": [0.5, 1, 0], "size": [2, 11, 1], "uv": [0, 0]},
+						{"origin": [-0.5, 1, 0], "size": [1, 11, 1], "uv": [0, 0]},
+						{"origin": [4.5, 3, 0], "size": [2, 5, 1], "uv": [18, 22]},
+						{"origin": [-6.5, 3, 0], "size": [2, 5, 1], "uv": [12, 22]},
+						{"origin": [2.5, 1, 0], "size": [2, 9, 1], "uv": [6, 22]},
+						{"origin": [-4.5, 3, 0], "size": [2, 7, 1], "uv": [0, 22]},
+						{"origin": [-3.5, 10, 0], "size": [1, 1, 1], "uv": [1, 1]},
+						{"origin": [2.5, 10, 0], "size": [1, 1, 1], "uv": [1, 1]},
+						{"origin": [4.5, 8, 0], "size": [1, 1, 1], "uv": [1, 1]},
+						{"origin": [-5.5, 8, 0], "size": [1, 1, 1], "uv": [1, 1]},
+						{"origin": [-5.5, 2, 0], "size": [1, 1, 1], "uv": [1, 1]},
+						{"origin": [4.5, 2, 0], "size": [1, 1, 1], "uv": [1, 1]},
+						{"origin": [-3.5, 1, 0], "size": [1, 0, 1], "uv": [1, 1]},
+						{"origin": [2.5, 1, 0], "size": [1, 0, 1], "uv": [1, 1]}
+					]
+				}
+			]
+		}
+	]
+}

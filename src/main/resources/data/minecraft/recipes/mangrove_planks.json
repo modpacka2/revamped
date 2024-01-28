@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:plank_7"
+    },
+    {
+      "item": "revamped_progression:plank_7"
+    },
+    {
+      "item": "revamped_progression:plank_7"
+    },
+    {
+      "item": "revamped_progression:plank_7"
+    }
+  ],
+  "result": {
+    "item": "minecraft:mangrove_planks",
+    "count": 1
+  }
+}

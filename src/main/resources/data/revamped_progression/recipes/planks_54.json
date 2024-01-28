@@ -1,0 +1,15 @@
+{
+  "type": "revamped_progression:axecuttingj",
+  "ingredients": [
+    {
+      "tag": "forge:axes_t_1"
+    },
+    {
+      "item": "minecraft:dark_oak_planks"
+    }
+  ],
+  "output": {
+    "item": "revamped_progression:plank_6",
+    "count": 1
+  }
+}

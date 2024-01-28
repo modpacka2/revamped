@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mangrove_log",
+        "1": "mangrove_log_top",
+        "2": "acacia_planks"
+      },
+      "name": "default"
+    }
+  }
+}

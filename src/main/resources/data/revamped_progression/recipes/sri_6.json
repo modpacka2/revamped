@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "b": {
+      "item": "revamped_progression:fibesr_string"
+    },
+    "c": {
+      "item": "revamped_progression:dark_oak_stick"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:bamboosword_6",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:axes"
+    },
+    {
+      "item": "revamped_progression:warped_stick"
+    }
+  ],
+  "result": {
+    "item": "revamped_progression:warped_stick",
+    "count": 2
+  }
+}

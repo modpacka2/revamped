@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "revamped_progression:spruce_stick"
+    },
+    "b": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:spruce_fence_gate",
+    "count": 1
+  }
+}

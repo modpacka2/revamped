@@ -1,0 +1,110 @@
+{
+  "_fv": 57,
+  "_type": "config",
+  "definition": {
+    "pools": [
+      {
+        "category": "Can players are able to cut tree with hands",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 1,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "If enabled the log will drop when break with hands",
+            "vardisplay": "Drop log",
+            "varname": "activate_drop",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "If enabled cutting logs with hands deal damage to the player",
+            "vardisplay": "Does cutting tree with hands deal damage",
+            "varname": "damage_log",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          }
+        ]
+      },
+      {
+        "category": "Level related",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.30000000000000004,
+            "textDefault": "",
+            "comment": "This is the variable that is multiplied by the level to get the number of xp needed",
+            "vardisplay": "Multi XP per level",
+            "varname": "xp_multi_per_lv",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 1,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "If enabled the game will take the value for the xp of each level",
+            "vardisplay": "I want to configure the xd",
+            "varname": "config_xp",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1500.0,
+            "textDefault": "",
+            "comment": "The number of xp for level 1 only if config xp is enabeld",
+            "vardisplay": "Base xp",
+            "varname": "base_xp",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:Crab"
+          }
+        ]
+      }
+    ],
+    "file": "Revamped_progression",
+    "configType": 0
+  }
+}

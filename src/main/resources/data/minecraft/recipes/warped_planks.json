@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:plank_10"
+    },
+    {
+      "item": "revamped_progression:plank_10"
+    },
+    {
+      "item": "revamped_progression:plank_10"
+    },
+    {
+      "item": "revamped_progression:plank_10"
+    }
+  ],
+  "result": {
+    "item": "minecraft:warped_planks",
+    "count": 1
+  }
+}

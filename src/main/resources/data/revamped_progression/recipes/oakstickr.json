@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:axes"
+    },
+    "b": {
+      "item": "revamped_progression:plank_1"
+    }
+  },
+  "result": {
+    "item": "revamped_progression:oakstick",
+    "count": 4
+  }
+}

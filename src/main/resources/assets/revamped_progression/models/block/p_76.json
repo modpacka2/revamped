@@ -1,0 +1,11 @@
+{
+  "parent": "revamped_progression:custom/p76",
+  "textures": {
+    "all": "revamped_progression:block/cherry_log",
+    "particle": "revamped_progression:block/cherry_log",
+    "0": "revamped_progression:block/cherry_log",
+    "1": "revamped_progression:block/cherry_log_top",
+    "2": "revamped_progression:block/dark_oak_planks"
+  },
+  "render_type": "cutout"
+}

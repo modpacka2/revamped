@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "jungle_log_top",
+        "3": "crimson_stem",
+        "4": "crimson_stem_top",
+        "5": "jungle_log"
+      },
+      "name": "default"
+    }
+  }
+}

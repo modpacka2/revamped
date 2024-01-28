@@ -1,0 +1,15 @@
+{
+  "type": "revamped_progression:punshing",
+  "ingredients": [
+    {
+      "item": "revamped_progression:sharp_rock"
+    },
+    {
+      "item": "minecraft:dark_oak_leaves"
+    }
+  ],
+  "output": {
+    "item": "revamped_progression:dark_oak_stick",
+    "count": 1
+  }
+}

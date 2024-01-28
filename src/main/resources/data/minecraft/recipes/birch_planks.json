@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "revamped_progression:plank_3"
+    },
+    {
+      "item": "revamped_progression:plank_3"
+    },
+    {
+      "item": "revamped_progression:plank_3"
+    },
+    {
+      "item": "revamped_progression:plank_3"
+    }
+  ],
+  "result": {
+    "item": "minecraft:birch_planks",
+    "count": 1
+  }
+}

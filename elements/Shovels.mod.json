@@ -1,0 +1,631 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Oakshovel"
+      },
+      {
+        "value": "CUSTOM:Oakshovel2"
+      },
+      {
+        "value": "CUSTOM:Oakshovel3"
+      },
+      {
+        "value": "CUSTOM:Oakshovel4"
+      },
+      {
+        "value": "CUSTOM:Oakshovel5"
+      },
+      {
+        "value": "CUSTOM:Oakshovel6"
+      },
+      {
+        "value": "CUSTOM:Oakshovel7"
+      },
+      {
+        "value": "CUSTOM:Oakshovel8"
+      },
+      {
+        "value": "CUSTOM:Oakshovel9"
+      },
+      {
+        "value": "CUSTOM:Oakshovel10"
+      },
+      {
+        "value": "CUSTOM:Oakshovel11"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel2"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel3"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel4"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel5"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel6"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel7"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel8"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel9"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel10"
+      },
+      {
+        "value": "CUSTOM:Spruceshovel11"
+      },
+      {
+        "value": "CUSTOM:Birchshovel"
+      },
+      {
+        "value": "CUSTOM:Birchshovel2"
+      },
+      {
+        "value": "CUSTOM:Birchshovel3"
+      },
+      {
+        "value": "CUSTOM:Birchshovel4"
+      },
+      {
+        "value": "CUSTOM:Birchshovel5"
+      },
+      {
+        "value": "CUSTOM:Birchshovel6"
+      },
+      {
+        "value": "CUSTOM:Birchshovel7"
+      },
+      {
+        "value": "CUSTOM:Birchshovel8"
+      },
+      {
+        "value": "CUSTOM:Birchshovel9"
+      },
+      {
+        "value": "CUSTOM:Birchshovel10"
+      },
+      {
+        "value": "CUSTOM:Birchshovel11"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel2"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel3"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel4"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel5"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel6"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel7"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel8"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel9"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel10"
+      },
+      {
+        "value": "CUSTOM:Jungleshovel11"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel2"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel3"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel4"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel5"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel6"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel7"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel8"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel9"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel10"
+      },
+      {
+        "value": "CUSTOM:Acaciashovel11"
+      },
+      {
+        "value": "CUSTOM:Darkshovel"
+      },
+      {
+        "value": "CUSTOM:Darkshovel2"
+      },
+      {
+        "value": "CUSTOM:Darkshovel3"
+      },
+      {
+        "value": "CUSTOM:Darkshovel4"
+      },
+      {
+        "value": "CUSTOM:Darkshovel5"
+      },
+      {
+        "value": "CUSTOM:Darkshovel6"
+      },
+      {
+        "value": "CUSTOM:Darkshovel7"
+      },
+      {
+        "value": "CUSTOM:Darkshovel8"
+      },
+      {
+        "value": "CUSTOM:Darkshovel9"
+      },
+      {
+        "value": "CUSTOM:Darkshovel10"
+      },
+      {
+        "value": "CUSTOM:Darkshovel11"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel2"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel3"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel4"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel5"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel6"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel7"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel8"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel9"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel10"
+      },
+      {
+        "value": "CUSTOM:Mangroveshovel11"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel2"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel3"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel4"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel5"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel6"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel7"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel8"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel9"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel10"
+      },
+      {
+        "value": "CUSTOM:Cherryshovel11"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel2"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel3"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel4"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel5"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel6"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel7"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel8"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel9"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel10"
+      },
+      {
+        "value": "CUSTOM:Crimsonshovel11"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel2"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel3"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel4"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel5"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel6"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel7"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel8"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel9"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel10"
+      },
+      {
+        "value": "CUSTOM:Warpedshovel11"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel2"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel3"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel4"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel5"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel6"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel7"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel8"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel9"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel10"
+      },
+      {
+        "value": "CUSTOM:Bambooshovel11"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel"
+      },
+      {
+        "value": "CUSTOM:Ironshovel"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring"
+      },
+      {
+        "value": "CUSTOM:Netheriteshovel"
+      },
+      {
+        "value": "CUSTOM:Netheriteshovelstring"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel2"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel3"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel4"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel5"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel6"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel7"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel8"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel9"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel10"
+      },
+      {
+        "value": "CUSTOM:Stoneshovel11"
+      },
+      {
+        "value": "CUSTOM:Ironshovel2"
+      },
+      {
+        "value": "CUSTOM:Ironshovel3"
+      },
+      {
+        "value": "CUSTOM:Ironshovel4"
+      },
+      {
+        "value": "CUSTOM:Ironshovel5"
+      },
+      {
+        "value": "CUSTOM:Ironshovel6"
+      },
+      {
+        "value": "CUSTOM:Ironshovel7"
+      },
+      {
+        "value": "CUSTOM:Ironshovel8"
+      },
+      {
+        "value": "CUSTOM:Ironshovel9"
+      },
+      {
+        "value": "CUSTOM:Ironshovel10"
+      },
+      {
+        "value": "CUSTOM:Ironshovel11"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring2"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring3"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring4"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring5"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring6"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring7"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring8"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring9"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring10"
+      },
+      {
+        "value": "CUSTOM:Ironshovelstring11"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel2"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel3"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel4"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel5"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel6"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel8"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel9"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel10"
+      },
+      {
+        "value": "CUSTOM:Diamondshovel11"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring2"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring3"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring4"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring5"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring6"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring7"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring8"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring9"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring10"
+      },
+      {
+        "value": "CUSTOM:Diamondshovelstring11"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel2"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel3"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel4"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel5"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel6"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel7"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel8"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel9"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel10"
+      },
+      {
+        "value": "CUSTOM:Goldenshovel11"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring2"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring3"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring4"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring5"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring6"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring7"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring8"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring9"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring10"
+      },
+      {
+        "value": "CUSTOM:Goldenshovelstring11"
+      },
+      {
+        "value": "Items.WOODEN_SHOVEL"
+      },
+      {
+        "value": "Items.STONE_SHOVEL"
+      },
+      {
+        "value": "Items.IRON_SHOVEL"
+      },
+      {
+        "value": "Items.GOLDEN_SHOVEL"
+      },
+      {
+        "value": "Items.DIAMOND_SHOVEL"
+      },
+      {
+        "value": "Items.NETHERITE_SHOVEL"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "shovels",
+    "namespace": "forge"
+  }
+}

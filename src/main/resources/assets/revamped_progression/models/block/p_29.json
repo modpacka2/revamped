@@ -1,0 +1,11 @@
+{
+  "parent": "revamped_progression:custom/p29",
+  "textures": {
+    "all": "revamped_progression:block/birch_log",
+    "particle": "revamped_progression:block/birch_log",
+    "0": "revamped_progression:block/birch_log",
+    "1": "revamped_progression:block/birch_log_top",
+    "2": "revamped_progression:block/crimson_planks"
+  },
+  "render_type": "cutout"
+}

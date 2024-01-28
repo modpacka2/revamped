@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "beach",
+    "snowy_beach",
+    "mangrove_swamp",
+    "swamp",
+    "river",
+    "stony_shore"
+  ],
+  "spawners": {
+    "type": "revamped_progression:crab",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

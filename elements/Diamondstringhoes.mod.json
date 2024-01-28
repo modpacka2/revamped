@@ -1,0 +1,49 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Diamondhoestring"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring2"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring3"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring4"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring5"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring6"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring7"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring8"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring9"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring10"
+      },
+      {
+        "value": "CUSTOM:Diamondhoestring11"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "diamondstringhoes",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "axecuttingj",
+    "result": {
+      "value": "CUSTOM:Plank3"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "TAG:forge:axes_t_1"
+      },
+      {
+        "value": "Blocks.PLANKS#2"
+      }
+    ]
+  }
+}

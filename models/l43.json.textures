@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "acacia_log_top",
+        "3": "birch_log",
+        "4": "birch_log_top",
+        "5": "acacia_log"
+      },
+      "name": "default"
+    }
+  }
+}

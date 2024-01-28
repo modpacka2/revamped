@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "revamped_progression:netheritesword",
+    "revamped_progression:netheriteswordstring",
+    "minecraft:netherite_sword"
+  ]
+}

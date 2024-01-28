@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "revamped_progression:plank_1"
+    },
+    "title": {
+      "translate": "advancements.plank.title"
+    },
+    "description": {
+      "translate": "advancements.plank.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "plank": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "revamped_progression:lumberjack"
+}

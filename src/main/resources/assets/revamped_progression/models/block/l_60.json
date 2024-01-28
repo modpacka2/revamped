@@ -1,0 +1,12 @@
+{
+  "parent": "revamped_progression:custom/l60",
+  "textures": {
+    "all": "revamped_progression:block/dark_oak_log",
+    "particle": "revamped_progression:block/dark_oak_log",
+    "1": "revamped_progression:block/dark_oak_log_top",
+    "3": "revamped_progression:block/warped_stem",
+    "4": "revamped_progression:block/warped_stem_top",
+    "5": "revamped_progression:block/dark_oak_log"
+  },
+  "render_type": "cutout"
+}
